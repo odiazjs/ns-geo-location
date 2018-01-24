@@ -1,2 +1,2 @@
-# ns-geo-location
-A Nativescript app with geo-location
+# ns-draggable
+Draggable element with border collision detection.

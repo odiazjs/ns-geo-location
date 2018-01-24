@@ -1,0 +1,19 @@
+.drag-world{
+    background-color: #626262;
+}
+.drag-btn {
+    width: 25%;
+}
+.draggable{
+    
+}
+.draggable-top{
+    font-size: 12px;
+    color: white;
+    background-color: green;
+    text-align: center;
+    padding: 2;
+}
+.draggable-body{
+    background-color: snow;
+}
